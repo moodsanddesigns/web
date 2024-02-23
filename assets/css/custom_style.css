@@ -1,0 +1,7 @@
+/* Override styles for .d-none on mobile devices */
+@media (max-width: 768px) {
+  .d-none {
+    display: block !important; /* or display: inline !important; */
+    /* Add any other necessary styles */
+  }
+}
