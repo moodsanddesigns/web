@@ -1,11 +1,1 @@
-/* Override styles for .d-none on mobile devices */
-@media (max-width: 768px) {
-  .container-fluid.container-xl {
-    width: 100%; /* Set to 100% to expand the container to full width on mobile */
-  }
 
-  /* Adjust font size of numbers */
-  .number-class {
-    font-size: 10px; /* Adjust the font size as needed */
-  }
-}
